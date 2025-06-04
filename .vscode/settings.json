@@ -1,0 +1,44 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "KUNKUN02",
+            "database": "hospital",
+            "username": "root"
+        }
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\kunal\\Downloads\\Programs\\JAVA TO SQL\\mysql-connector-j-9.2.0.jar"
+    ],
+    "cSpell.words": [
+        "adddocters",
+        "affeccted",
+        "appoientment",
+        "appoientmentdate",
+        "appoientmentquery",
+        "appointmentquery",
+        "Avalibility",
+        "Chack",
+        "Choich",
+        "Docter",
+        "Docterbyid",
+        "docterid",
+        "Docters",
+        "Faild",
+        "Failded",
+        "getdocterbyid",
+        "jdbc",
+        "patientid",
+        "specilization",
+        "viewdocters"
+    ]
+}
